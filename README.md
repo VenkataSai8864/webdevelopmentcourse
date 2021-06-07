@@ -14,7 +14,7 @@
     3. Apples
     4. Bananas
 * vegetables
-    * Tomatoes
+    * Tomato
     * carrot
-    * brinjals
+    * brinjal
     
