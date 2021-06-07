@@ -8,3 +8,13 @@
 **We are Learning**
 *We are learning Web development*
 ***We are Learning Web development*** 
+1. Fruits
+    1. Mangoes
+    2. Oranges
+    3. Apples
+    4. Bananas
+* vegetables
+    * Tomatoes
+    * carrot
+    * brinjals
+    
