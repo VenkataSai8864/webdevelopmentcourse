@@ -29,3 +29,9 @@
 Name | Phone number
 -----|-------------
 Venkat|98898899
+
+
+```Python
+def greeting():
+     print("HI")
+```
